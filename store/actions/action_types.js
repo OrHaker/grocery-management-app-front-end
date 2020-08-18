@@ -1,0 +1,12 @@
+//USERS (FAMILIES)
+export const LOG_IN = "LOG_IN";
+export const LOG_OUT = "LOG_OUT";
+export const UPDATE_FAMILY_DETAILS = "UPDATE_FAMILY_DETAILS";
+export const FAMILY_REGISTRATION = "FAMILY_REGISTRATION";
+//PRODUCTS
+export const SET_ITEMS = "SET_ITEMS";
+export const UPDATE_ITEMS = "UPDATE_ITEMS";
+export const SET_CATEGORIES = "SET_CATEGORIES";
+//NOTES
+export const SET_NOTES = "SET_NOTES";
+export const UPDATE_NOTES = "UPDATE_NOTES";
